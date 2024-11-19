@@ -7,7 +7,7 @@ TypeScript,
 Prisma & 
 Tailwind
 
-![Project Image](https://github.com/joschan21/quill/blob/master/public/thumbnail.png)
+![Project Image](https://github.com/PAPICODER/quill-chatPDF/main/public/thumbnail.png)
 
 ## Features
 
